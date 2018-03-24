@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>새 탭</title>
+
+
+  <style>
+  .row {
+    width: 400px;
+    margin-right: 5px;
+    margin-left: 3px;
+  }
+  a{
+  color: black;
+}
+</style>
+
+
+  </head>
+  <body>
+    <h1>
+
+
+
+
+
+    </h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+
+
+
+
+<font size=2px>
+<ul class="nav justify-content-end">
+
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Mail</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Images</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">
+      <img src="./images/grid.png"></a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" href="#">
+      <img src="./images/bell.png"></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">
+      <i class="fas fa-user-circle fa-2x"></i>
+      <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+    </a>
+  </li>
+</ul>
+</font>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<img src="./images/google.png" class="rounded mx-auto d-block" alt="...">
+<main class="d-flex justify-content-center">
+
+
+<div class="col-sm-6 md-4 mb-3">
+            <label for="validationTooltipUsername"></label>
+            <div class="input-group">
+              
+              <input type="text" class="form-control" id="validationTooltipUsername" placeholder="Search Google or type URL" aria-describedby="validationTooltipUsernamePrepend" required>
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="validationTooltipUsernamePrepend"><i class="fas fa-microphone"></i></span>
+              </div>
+            </div>
+</div>
+
+
+
+</main>
+
+
+ 
+
+
+<br>
+<br>
+<main class="d-flex justify-content-center">
+<div class="row">
+  <div class="col">
+    <img src=./images/page1.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page2.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page3.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page4.png width=150px height=130px>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col">
+    <img src=./images/page5.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page6.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page7.png width=150px height=130px>
+  </div>
+  <div class="col">
+    <img src=./images/page8.png width=150px height=130px>
+  </div>
+</div>
+
+</div>
+
+ </main>
+
